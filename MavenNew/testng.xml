@@ -1,0 +1,16 @@
+<suite name='001'>
+	<test name="Regression">
+		<classes>
+			<class name="com.bit.test.SmokeTest">
+				<methods>
+					<method>
+						<include name="test1"></include>
+						<include name="test2"></include>
+						<include name="test3"></include>
+					</method>
+				</methods>
+			</class>
+		</classes>
+	
+	</test>
+</suite>

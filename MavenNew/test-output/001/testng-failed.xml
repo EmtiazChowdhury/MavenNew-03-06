@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [001]">
+  <test name="Regression">
+    <classes>
+      <class name="com.bit.test.SmokeTest">
+        <methods>
+          <include name="test1"/>
+          <include name="test2"/>
+          <include name="test3"/>
+        </methods>
+      </class> <!-- com.bit.test.SmokeTest -->
+    </classes>
+  </test> <!-- Regression -->
+</suite> <!-- Failed suite [001] -->
