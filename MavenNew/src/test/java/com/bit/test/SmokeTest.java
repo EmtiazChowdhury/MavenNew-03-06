@@ -23,5 +23,11 @@ public class SmokeTest extends BaseTest
 	{
 		
 	}
+
+	@Test
+	public void Test4()
+	{
+		
+	}
 	
 }
